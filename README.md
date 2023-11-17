@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ccarni
-- 👀 I’m interested in game dev, web dev, and AI.
-- 🌱 I’m currently learning python and JS.
 
 <!---
 ccarni/ccarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
